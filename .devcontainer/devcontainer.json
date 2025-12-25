@@ -36,6 +36,6 @@
 
   "workspaceFolder": "/workspaces",
 
-  "postCreateCommand": "./${RepositoryName}/.devcontainer/post-create.sh",
-  "postStartCommand": "./${RepositoryName}/.devcontainer/post-start.sh"
+  "postCreateCommand": "./${skills-introduction-to-git}/.devcontainer/post-create.sh",
+  "postStartCommand": "./${skills-introduction-to-git}/.devcontainer/post-start.sh"
 }
